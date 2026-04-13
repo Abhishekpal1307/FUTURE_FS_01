@@ -24,7 +24,7 @@ A personal portfolio website to showcase skills, projects, and professional prof
 
 ## 🚀 Live Demo
 
-Live Demo: [Add your deployed link here]
+Live Demo: https://future-fs-01-mu-lac.vercel.app/
 
 ## 📁 GitHub Repository
 
